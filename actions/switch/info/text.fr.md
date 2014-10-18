@@ -1,1 +1,1 @@
-Infrarouge
+Interrupteur

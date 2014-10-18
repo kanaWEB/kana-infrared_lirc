@@ -1,1 +1,1 @@
-Infrared
+Switch
