@@ -1,0 +1,11 @@
+{
+	"default": {
+		"command": "irsend.sh",
+		"usage" : "irsend.sh code",
+		"args": {
+			"code": {
+				"type": "Code"
+			}
+		}
+	}
+}

@@ -1,1 +1,0 @@
-infrared,remote,home automation,tv,lirc

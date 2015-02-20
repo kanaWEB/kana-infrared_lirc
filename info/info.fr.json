@@ -1,0 +1,12 @@
+{
+   "description" : "Contrôler l'infrarouge avec Lirc",
+   "name" : "Infrarouge (lirc)",
+   "tags" : {
+      "infrared" : {},
+      "remote" : {},
+      "home automation" : {},
+      "tv" : {},
+      "lirc" : {}
+   },
+   "type" : "gpios"
+}
